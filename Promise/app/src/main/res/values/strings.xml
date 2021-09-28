@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Promise</string>
+    <string name="promise1">We are strong.</string>
+    <string name="promise2">We believe in ourselves.</string>
+    <string name="promise3">Each day is a new opportunity to grow and be a better version of us.</string>
+    <string name="promise4">Every challenge in our life is an opportunity to learn from.</string>
+    <string name="promise5">I have so much to be grateful for you.</string>
+    <string name="promise6">Good things are always coming into our lives.</string>
+    <string name="promise7">New opportunities awaits us at every turn.</string>
+    <string name="promise8">We have the courage to follow our heart.</string>
+    <string name="promise9">Things will unfold at precisely the right time.</string>
+    <string name="promise10">I will be present in all the moments that this day brings.</string>
+</resources>
