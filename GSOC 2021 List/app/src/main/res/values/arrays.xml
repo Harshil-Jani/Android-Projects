@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string-array name="words">
+        <item>About Code:2021:5677990456852480</item>
+        <item>Accord Project:2021:4826533859950592</item>
+        <item>AeroSpace Research:2021:4866654592303104</item>
+        <item>AFL Plus Plus:2021:5090910303420416</item>
+        <item>Android Graphics Tools Team:2021:5995132419047424</item>
+        <item>AnkiDriod:2021:5687189203058688</item>
+        <item>AOSSIE:2021:5135086290206720</item>
+        <item>Apertium:2021:5702681049432064</item>
+        <item>Apertus:2021:5659873647263744</item>
+        <item>Ardu Pilot:2021:4848051277004800</item>
+        <item>AudaCity:2021:5631107231383552</item>
+        <item>BeagleBoard:2021:5067823478472704</item>
+        <item>Bench Routes:2021:5764622900002816</item>
+        <item>Blender:2021:5672605809377280</item>
+        <item>Boost C++ Libraries:2021:5123901926932480</item>
+        <item>BRL-CAD:2021:5647022668906496</item>
+        <item>caMicroScope:2021:5372385280131072</item>
+        <item>Casbin:2021:6199282348064768</item>
+        <item>CASTOR:2021:6291016608382976</item>
+        <item>CC Extractor Development:2021:5102272740065280</item>
+        <item>CROSS-Center for Research in Open Source Software:2021:6311773715562496</item>
+        <item>Ceph:2021:6259684285087744</item>
+        <item>CERN HSF:2021:6240588592054272</item>
+        <item>CGAL Project:2021:6538937723518976</item>
+        <item>CHAOSS Project:2021:6538937723518976</item>
+        <item>Chapel:2021:6086891878744064</item>
+        <item>Check-Style:2021:4766383010742272</item>
+        <item>Chromium:2021:4857406487527424</item>
+        <item>Cilium:2021:6055505163714560</item>
+        <item>Circuit Verse:2021:6293580166987776</item>
+        <item>CiViCRM LLC:2021:5667013157978112</item>
+        <item>CloudCV:2021:5332159690178560</item>
+        <item>CNCF-Cloud Native Computing Foundation:2021:5144170817126400</item>
+        <item>Coala:2021:4904398832009216</item>
+        <item>Continuous Delivery Foundation:2021:5349298455183360</item>
+        <item>CRIU:2021:5396163661922304</item>
+        <item>Cuneiform Digital Library Initiative (CDLI):2021:5679162177617920</item>
+        <item>Dart:2021:6522063568764928</item>
+        <item>DBpedia:2021:4709350374899712</item>
+        <item>Debian:2021:5913368723980288</item>
+        <item>DeepPavLov:2021:6618455117135872</item>
+        <item>Department of Biomedical Informatics (BMI), Emory University School of Medicine:2021:6515383720214528</item>
+        <item>Digital Impact Alliance (DIAL) at UN Foundation:2021:5400186335002624</item>
+        <item>Django Software Foundation:2021:6030298738851840</item>
+        <item>Elm Tooling:2021:5833213695492096</item>
+        <item>FFmpeg:2021:6245462977282048</item>
+        <item>Fortran Lang:2021:6542461173760000</item>
+        <item>FOSSology:2021:5641437164601344</item>
+        <item>FrameNet Brasil (UFJF):2021:6046169112772608</item>
+        <item>FOSSI - Free and Open Source Silicon Foundation:2021:6542389937700864</item>
+        <item>FreeBSD Project:2021:5255426173566976</item>
+        <item>FreeType:2021:5483147923292160</item>
+        <item>freifunk:2021:5663378709676032</item>
+        <item>FRRouting:2021:5868804143316992</item>
+        <item>GNU Compiler Collection (GCC):2021:5653860256841728</item>
+        <item>Genome Assembly and Annotation:2021:5794597745197056</item>
+        <item>Gentoo Foundation:2021:4842426950221824</item>
+        <item>GeomScale:2021:5291444977270784</item>
+        <item>GFOSS - Open Technology Alliance:2021:5185060013080576</item>
+        <item>Git:2021:6398200235163648</item>
+        <item>GitLab:2021:5396515480141824</item>
+        <item>Global Alliance for Genomics and Health:2021:4716668999172096</item>
+        <item>GNOME Foundation:2021:6476318677401600</item>
+        <item>GNSS-SDR:2021:6204387118022656</item>
+        <item>GNU Mailman Project:2021:5211080233582592</item>
+        <item>GNU Octave:2021:5764694136061952</item>
+        <item>GNU Radio:2021:5786120553496576</item>
+        <item>Godot Engine:2021:5744305389436928</item>
+        <item>Google FHIR SDK:2021:5675929577193472</item>
+        <item>gprMax:2021:4979973948964864</item>
+        <item>GRR Rapid Response:2021:5763186065670144</item>
+        <item>gVisor:2021:5119642997096448</item>
+        <item>Haiku:2021:5748009966501888</item>
+        <item>Halide:2021:5630773431894016</item>
+        <item>Haskell:2021:6216810210263040</item>
+        <item>Hydra Ecosystem:2021:5753537857847296</item>
+        <item>INCF:2021:6330511550578688</item>
+        <item>Inkscape:2021:5656327346454528</item>
+        <item>Integrated Ocean Observing System (IOOS):2021:5159672092295168</item>
+        <item>Intel Video and Audio for Linux:2021:6244611265134592</item>
+        <item>International Catrobat Association:2021:5201744182640640</item>
+        <item>Internet Archive:2021:6193723385315328</item>
+        <item>JabRef e.V.:2021:5760795715043328</item>
+        <item>Java PathFinder:2021:5712237452328960</item>
+        <item>JBoss Community:2021:5722851356704768</item>
+        <item>JdeRobot - Universidad Rey Juan Carlos:2021:5743038910955520</item>
+        <item>Joomla!:2021:6265631002853376</item>
+        <item>Joplin:2021:6548330145906688</item>
+        <item>KDE Community:2021:4834047200591872</item>
+        <item>Kiwix:2021:6595970359361536</item>
+        <item>Kodi:2021:5186500538400768</item>
+        <item>LabLua:2021:5651367128989696</item>
+        <item>Learning Equality:2021:5523941925322752</item>
+        <item>LibCamera:2021:5084072715485184</item>
+        <item>Libre Space Foundation:2021:5144401537400832</item>
+        <item>LibreCube Initiative:2021:5642529495580672</item>
+        <item>LibreHealth:2021:6009541631672320</item>
+        <item>LibreOffice:2021:4920197969870848</item>
+        <item>libvirt:2021:4791907464511488</item>
+        <item>Liquid Galaxy project:2021:5964067927228416</item>
+        <item>Machine Learning for Science (ML4SCI) Umbrella Organization:2021:5101210708738048</item>
+        <item>MapAction:2021:4875496487124992</item>
+        <item>MariaDB Foundation:2021:6249801833775104</item>
+        <item>Matrix.org:2021:4920269205929984</item>
+        <item>Mayors Office of New Urban Mechanics (City of Boston):2021:5504645576785920</item>
+        <item>MBDyn:2021:4862926560690176</item>
+        <item>MDAnalysis:2021:4692476220145664</item>
+        <item>Media Cloud:2021:6194875543846912</item>
+        <item>MediaPipe:2021:5917807371354112</item>
+        <item>MetaBrainz Foundation Inc:2021:4875887060713472</item>
+        <item>MetaCall:2021:5272300328321024</item>
+        <item>Metasploit:2021:4728495023849472</item>
+        <item>MGGG Redistricting Lab:2021:5759703384064000</item>
+        <item>MIT App Inventor:2021:5354857417932800</item>
+        <item>mlpack:2021:5101022367711232</item>
+        <item>MoveIt:2021:5449155236855808</item>
+        <item>MuseScore:2021:5844642704130048</item>
+        <item>mypy:2021:4693309712236544</item>
+        <item>National Resource for Network Biology (NRNB):2021:4898028657311744</item>
+        <item>Navidrome:2021:5963988000571392</item>
+        <item>NumFOCUS:2021:6176584620310528</item>
+        <item>Open Bioinformatics Foundation:2021:6326136019091456</item>
+        <item>Open Chemistry:2021:5838773731983360</item>
+        <item>Open Genome Informatics:2021:5660767872876544</item>
+        <item>Open Roberta:2021:6381326080409600</item>
+        <item>Open Robotics:2021:5698036243628032</item>
+        <item>openastronomy:2021:6276607395758080</item>
+        <item>OpenCV:2021:5722622045716480</item>
+        <item>OpenMined:2021:5769029704220672</item>
+        <item>OpenMRS:2021:5663972321132544</item>
+        <item>OpenStreetMap:2021:5165116701540352</item>
+        <item>openSUSE Project:2021:5137006207696896</item>
+        <item>OpenWISP:2021:5206079750799360</item>
+        <item>Oppia Foundation:2021:5223170600075264</item>
+        <item>Orcasound:2021:6255426160558080</item>
+        <item>OSGeo - Open Source Geospatial Foundation:2021:5115040503431168</item>
+        <item>OWASP Foundation:2021:5704942551040000</item>
+        <item>PEcAn Project:2021:5117265531371520</item>
+        <item>Pharo Consortium:2021:5738046581899264</item>
+        <item>Pidgin Instant Messenger:2021:5646348627476480</item>
+        <item>Pitivi:2021:5952433766793216</item>
+        <item>Plan 9 Foundation:2021:5118711358291968</item>
+        <item>Point Cloud Library:2021:6260986197049344</item>
+        <item>Polypheny:2021:5697965007568896</item>
+        <item>PostgreSQL:2021:6316019928268800</item>
+        <item>Postman:2021:5124239249637376</item>
+        <item>Processing Foundation:2021:4923136667025408</item>
+        <item>Project WikiLoop:2021:5935335233552384</item>
+        <item>Public Lab:2021:6245542903939072</item>
+        <item>Purr Data:2021:5146061710032896</item>
+        <item>Python Software Foundation:2021:5068943793848320</item>
+        <item>QEMU</item>
+        <item>Qubes OS</item>
+        <item>React Native Elements:2021:4838168020385792</item>
+        <item>ReactOS:2021:5679527786708992</item>
+        <item>Red Hen Lab:2021:5946697670197248</item>
+        <item>Rizin:2021:5119563070439424</item>
+        <item>RoboComp:2021:6285571999137792</item>
+        <item>Rocket.Chat:2021:6240940410273792</item>
+        <item>RTEMS Project:2021:5979439984279552</item>
+        <item>Ruby:2021:5432182465626112</item>
+        <item>SageMath:2021:5180088957534208</item>
+        <item>Samba:2021:5673937584783360</item>
+        <item>Scala Center:2021:5492555210293248</item>
+        <item>SCoRe Lab:2021:5416561266917376</item>
+        <item>ScummVM:2021:5723178982178816</item>
+        <item>Shaka Player:2021:4852309401534464</item>
+        <item>Software Heritage:2021:5396997154013184</item>
+        <item>SPDX:2021:4886205283434496</item>
+        <item>STE||AR Group:2021:6522897060855808</item>
+        <item>strace:2021:6067595530207232</item>
+        <item>Sugar Labs:2021:6572491585093632</item>
+        <item>Swift:2021:4908645044715520</item>
+        <item>SymbiFlow:2021:4577761535983616</item>
+        <item>SymPy:2021:5401117973807104</item>
+        <item>Synfig:2021:6046097876713472</item>
+        <item>syslog-ng:2021:6224442098712576</item>
+        <item>Tarantool:2021:6336686404927488 </item>
+        <item>TARDIS SN:2021:4742904236474368</item>
+        <item>TensorFlow:2021:6649841832165376</item>
+        <item>The Apache Software Foundation:2021:5149287498907648</item>
+        <item>The ENIGMA Team:2021:5988826467532800</item>
+        <item>The Honeynet Project:2021:5942967122001920</item>
+        <item>The Julia Language:2021:5086646441082880</item>
+        <item>The Libreswan Project:2021:6271961616875520</item>
+        <item>The Linux Foundation:2021:5715751809318912</item>
+        <item>The LLVM Compiler Infrastructure:2021:5738954464165888</item>
+        <item>The NetBSD Foundation:2021:5674199175135232</item>
+        <item>The ns-3 Network Simulator Project:2021:6270070723969024</item>
+        <item>The Palisadoes Foundation:2021:4835102856577024</item>
+        <item>The R Project for Statistical Computing:2021:6564346347388928</item>
+        <item>The Terasology Foundation:2021:4867306789797888</item>
+        <item>TianoCore:2021:6228850043781120</item>
+        <item>VideoLAN:2021:6526086241845248</item>
+        <item>vitrivr:2021:5714570659758080</item>
+        <item>Wikimedia Foundation:2021:5270263742070784</item>
+        <item>Xfce:2021:5706869816950784</item>
+        <item>Xiph.Org Foundation:2021:5197456597319680</item>
+        <item>xrdesktop:2021:5134539654955008</item>
+        <item>XWiki:2021:5665151457427456</item>
+        <item>Zulip:2021:5441147069005824</item>
+
+    </string-array>
+</resources>
